@@ -115,5 +115,7 @@ Verify the model name and path. Make sure you have the necessary permissions to 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (13)](https://github.com/user-attachments/assets/1bf2a679-d281-4550-a140-9a0a59306a5f)
+
+![Screenshot (14)](https://github.com/user-attachments/assets/bcd5b60f-1a95-48fb-81c3-0b5ffc898d4c)
 
